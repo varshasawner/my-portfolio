@@ -1,0 +1,33 @@
+.box
+{
+	height: 10vh;
+	width: 100%;
+	background: #1e1c1c;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+
+.logo
+{
+	font-family: Verdana;
+	font-size: 40px;
+	width: 20%;
+	color: white;
+	margin-left: 30px;
+}
+
+.nav
+{
+	width: 30%;
+	font-size: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+.hyperlink
+{
+	color: #9c9595;
+	font-weight: 700;
+}
+

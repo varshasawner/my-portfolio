@@ -1,0 +1,43 @@
+.container
+{
+
+}
+.calBox
+{
+	height: 325px;
+	width: 28%;
+	background: black;
+	padding: 5px;
+}
+.screen
+{
+	height: 50px;
+	width: 100%;
+	font-weight: 700;
+	font-size: 20px;
+	color: blue;
+	margin-bottom: 5px;
+	/*background: black;
+	color: white;*/
+}
+.btn
+{
+	width: 23.5%;
+	padding: 20px 30px;
+	margin: 2px;
+	font-weight: 700;
+	font-size: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.btn:hover
+{
+	background: grey;
+	color: white;
+}
+.btnBox
+{
+	display: flex;
+	flex-wrap: wrap;
+}

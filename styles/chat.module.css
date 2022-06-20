@@ -1,0 +1,90 @@
+.container
+{
+	margin: 5%;
+	background: #14145d;
+	width: 28%;
+	padding: 6px;
+}
+.container_whatsApp
+{
+	margin: 5%;
+	background: black;
+	width: 28%;
+	padding: 6px;
+}
+
+.text
+{
+	overflow: auto;
+	width: 100%;
+	background: white;
+	height: 325px;
+}
+.text_whatsApp
+{
+	overflow: auto;
+	width: 100%;
+	background: white;
+	height: 325px;
+}
+
+.textMsgBox
+{
+	width: 80%;
+	height: 30px;
+}
+.textMsgBox_1
+{
+	width: 80%;
+	height: 30px;
+}
+.textMsgBox_2
+{
+	width: 80%;
+	height: 30px;
+}
+.sendBtn
+{
+	width: 20%;
+	padding: 6px;
+	background: blue;
+	color: white;
+	font-weight: 700;
+	border: grey 2px groove;
+}
+.mainWindow
+{
+	display: flex;
+	justify-content: space-around;
+}
+.bubble
+{
+	padding: 5px;
+	background: #45457a;
+	margin: 5px;
+	color: white;
+	width: 50%;
+	border-radius: 7px;
+
+}
+.bubbleright
+{
+	padding: 5px;
+	background: grey;
+	margin: 5px;
+	color: white;
+	width: 50%;
+	border-radius: 7px;
+
+}
+
+.bubbletime {
+	font-size: 12px;
+	color: #aaa;
+	margin: 0px 5px;
+}
+
+.bubblecontainer {
+	display: 'flex';
+	flex-direction: 'column';
+}
